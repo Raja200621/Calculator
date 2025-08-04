@@ -22,10 +22,8 @@ The calculator uses Java methods, loops, conditionals, and input/output (I/O) co
    - [Java JDK Download](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 2. **Compile the code**:
-   ```bash
    javac Calculator.java
 
 3.**Run the program**:
-    ```bash
     java Calculator
 
