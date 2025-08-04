@@ -25,7 +25,6 @@ The calculator uses Java methods, loops, conditionals, and input/output (I/O) co
    ```bash
    javac Calculator.java
 
-3.**Run the program**:
-    ```bash
+3.**Run the program**
     java Calculator
 
